@@ -11,7 +11,7 @@
 ### 💻 Lista de tecnologías:
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=astro,js,html,tailwind,bootstrap,cs,mysql,vscode,visualstudio,git,github,figma">
+  <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,vite,mysql,firebase,tailwind,bootstrap,kotlin,flutter,dart,vscode,androidstudio,git,github,figma,postman,netlify">
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
